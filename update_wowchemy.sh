@@ -43,3 +43,4 @@ echo "If there are breaking changes, the config and/or front matter of content" 
 echo
 echo "View the update guide at: https://wowchemy.com/docs/update/"
 echo "View the latest release notes at: https://wowchemy.com/updates/"
+export PATH=$PATH:/usr/local/go/bin
